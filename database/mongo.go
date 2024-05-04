@@ -2,7 +2,7 @@ package database
 
 import (
 	"context"
-	"github.com/draco121/common/utils"
+	"github.com/draco121/horizon/utils"
 	"log"
 	"time"
 

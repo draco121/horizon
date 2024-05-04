@@ -1,9 +1,9 @@
 package clients
 
 import (
-	"github.com/draco121/common/constants"
-	"github.com/draco121/common/models"
-	"github.com/draco121/common/utils"
+	"github.com/draco121/horizon/constants"
+	"github.com/draco121/horizon/models"
+	"github.com/draco121/horizon/utils"
 	"github.com/go-resty/resty/v2"
 )
 

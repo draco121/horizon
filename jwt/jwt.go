@@ -3,12 +3,12 @@ package jwt
 import (
 	"fmt"
 	"github.com/dgrijalva/jwt-go"
-	"github.com/draco121/common/utils"
+	"github.com/draco121/horizon/utils"
 	"go.mongodb.org/mongo-driver/bson/primitive"
 	"os"
 	"time"
 
-	"github.com/draco121/common/models"
+	"github.com/draco121/horizon/models"
 )
 
 // JWTSecretKey is a secret key used to sign the JWT tokens.

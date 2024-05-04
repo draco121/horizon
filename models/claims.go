@@ -2,7 +2,7 @@ package models
 
 import (
 	"github.com/dgrijalva/jwt-go"
-	"github.com/draco121/common/constants"
+	"github.com/draco121/horizon/constants"
 	"go.mongodb.org/mongo-driver/bson/primitive"
 )
 
